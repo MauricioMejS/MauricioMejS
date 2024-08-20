@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-```
+```JavaScript
 export default const AboutMe = () => {
   const studies = [ "Universidad de la Salle Bajío", "Coursera", "edX" ]
   const tools = [ React, Vue, ReactNative, Node ]
