@@ -9,7 +9,7 @@ export default const AboutMe = () => {
     from: "México"
     email: "maumejdev@icloud.com"
     lenguages: [ Spanish, English ]
-    skills: [ Empathy, Communication, Self-taught, Flexible ]
+    skills: [ Empathy, Communication, SelfTaught, Flexible ]
   }
 }
 ```
